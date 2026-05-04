@@ -181,14 +181,11 @@ price = -2,298.36 + 11,600 × carat
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/anim-michael-asante/diamond-price-regression
-cd diamond-price-regression
+git clone https://github.com/anim-michael-asante/Diamond-Price-Prediction-Linear-Regression-OLS.git
+cd Diamond-Price-Prediction-Linear-Regression-OLS
 
-# 2. Create and activate a virtual environment
-python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
 
-# 3. Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 ```
 
