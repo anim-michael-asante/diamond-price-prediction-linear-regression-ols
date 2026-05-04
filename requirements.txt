@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────────
+# Diamond Price Prediction — Linear Regression (OLS)
+# requirements.txt
+# Python 3.13+
+# Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────
+
+# Core data manipulation
+pandas>=3.0.2
+
+# Numerical computing (statsmodels & matplotlib dependency)
+numpy>=2.4.4
+
+# Statistical modelling — OLS regression
+statsmodels>=0.14.6
+
+# statsmodels formula dependency
+patsy>=1.0.2
+
+# Scientific computing (statsmodels dependency)
+scipy>=1.17.1
+
+# Visualisation
+matplotlib>=3.10.8
+
+# Interactive notebook environment
+jupyterlab>=4.5.7
