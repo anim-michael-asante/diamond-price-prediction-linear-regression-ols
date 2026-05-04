@@ -293,7 +293,7 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for full terms.
 
 **Michael Asante Anim** | `0x1aerixis`
 BSc Cyber Security — University of Mines and Technology (UMaT), Tarkwa, Ghana
-Member, The Digital Frontline
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-anim--michael--asante-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anim-michael-asante)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-asante-anim)
