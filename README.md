@@ -267,7 +267,7 @@ If you reference this project in academic work or course reports, please cite as
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{https://github.com/anim-michael-asante/diamond-price-regression}},
+  howpublished = {\url{https://github.com/anim-michael-asante/Diamond-Price-Prediction-Linear-Regression-OLS.git}},
   note         = {BSc Cyber Security, University of Mines and Technology (UMaT), Tarkwa, Ghana}
 }
 ```
